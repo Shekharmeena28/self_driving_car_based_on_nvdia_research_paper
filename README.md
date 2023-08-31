@@ -1,7 +1,8 @@
 # Self driving car based on nvdia research paper
 
 
-
+![Image Alt Text](car.png)
+![Image Alt Text](carr.kpg)
 
 
 - Based on the nvidia research paper 'End to End Learning for Self-Driving Cars' this project is implemented as described by the nvdia, here udacity car simulater was used to collect the data(images, steering angle, throttle, speed up and down) this data is saved in the csv file.
